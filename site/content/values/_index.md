@@ -26,7 +26,8 @@ values:
     imageUrl: "/img/download - 2022-01-06T152351.446.jfif"
   - heading: "Best Emulators"
     text: >
-      The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really safe.
+      The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really unsafe.
     For the Gameboy its the mGBA Emulator. Its really easy to use and its small enough to run on a really old PC.
     imageUrl: "/img/download (14).png"
- ---
+---
+
