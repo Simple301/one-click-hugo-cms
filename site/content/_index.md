@@ -4,7 +4,7 @@ subtitle: All the basic information you will need
 image: /img/images (50).jfif
 blurb:
     heading: What is Emulation in the video-game industry?
-    text: "Emulation is the process of running old or exclusive games on any sort of a "banned" device. Emulating games can be very easy yet also very diffictult. "
+    text: "Emulation is the process of running old or exclusive games on any sort of a different device. Emulating games can be very easy yet also very diffictult. "
 intro:
     heading: "Is Emulating games legal? "
     text: "Yes and No. If you own a game on a disc, and you know how to transport the files on your device of choice, then it is very legal to emulate it. 
