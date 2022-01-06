@@ -11,13 +11,9 @@ intro:
 However, if don't own a game in any sort of way and you can't transport the files from it to your machine, it is illegal. "
 products:
     - image: img/illustrations-coffee.svg
-      text: "Should I emulate games? 
-
-It all depends on you, if you find fun in messing around with games this will be very entertaining to you."
+      text: "Emulating games legally requires you to extract the game files onto your PC and run them through an emulator."
     - image: /img/illustrations-coffee-gear.svg
-      text: "There are many sites to find emulators, I personally, as an experienced person, prefer https://www.emulatorgames.net/emulators/. 
-It is a safe, decent site for everything involving emulation, I would not suggest you download any ROMs from this site though, 
-because it is illegal. "
+      text: "Emulating games illegaly requires you to find a site with certain ROMs, download the zip file and run it through an emulator. "
 values:
     heading: Our Goal
     text: Emulating is a fun, entertaining experience that means a lot to our staff. We will update you with the best, beginner tips and tricks for you to start emulating.
