@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Learn the basics of emulating"
+subtitle: All the basic information you will need
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
