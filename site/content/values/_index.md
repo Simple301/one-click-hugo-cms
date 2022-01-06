@@ -23,8 +23,9 @@ values:
 2. Pokemon Diamond/Pear/Platinum (any pokemon game in general
 3. Mario Kart
 4. Metroid Fusion
+
     imageUrl: "/img/download - 2022-01-06T152351.446.jfif"
-  - heading: "Best Emulators"
+   -heading: "Best Emulators"
     text: >
     The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really safe.
     For the Gameboy its the mGBA Emulator. Its really easy to use and its small enough to run on a really old PC.
