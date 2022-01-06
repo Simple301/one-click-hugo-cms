@@ -18,11 +18,11 @@ values:
     imageUrl: "/img/romhacking.net.png"
   - heading: "What games should I emulate first?"
     text: >
-     There are a TON of great DS games out there, but the best/easiest games to start with are:
-     1. New! Super Mario Bros.
-     2. Pokemon Diamond/Pear/Platinum (any pokemon game in general
-     3. Mario Kart
-     4. Metroid Fusion
+      There are a TON of great DS games out there, but the best/easiest games to start with are:
+      1. New! Super Mario Bros.
+      2. Pokemon Diamond/Pear/Platinum (any pokemon game in general
+      3. Mario Kart
+      4. Metroid Fusion
     imageUrl: "/img/download - 2022-01-06T152351.446.jfif"
   - heading: "Best Emulators"
     text: >
