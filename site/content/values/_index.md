@@ -8,7 +8,7 @@ values:
     imageUrl: "/img/download - 2022-01-06T151035.466.jfif"
   - heading: "Extracting the data from a Disc"
     text: >
-    It will be more complicated to extract the files legally, but thankfully there is always a video on youtube that can go step by step in explaining you how to extract files onto your PC. Here is a good video explaining what you should do if you own a Nintendo DS/DS Lite: https://www.youtube.com/watch?v=CZk_pH4pjfM.
+      It will be more complicated to extract the files legally, but thankfully there is always a video on youtube that can go step by step in explaining you how to extract files onto your PC. Here is a good video explaining what you should do if you own a Nintendo DS/DS Lite: https://www.youtube.com/watch?v=CZk_pH4pjfM.
       If you think that you already know how to do it, we would still recommend you to use FileZilla and Digiex for transfering the data.
     imageUrl: "/img/ds.jfif"
   - heading: "The illegal way"
@@ -23,10 +23,9 @@ values:
 2. Pokemon Diamond/Pear/Platinum (any pokemon game in general
 3. Mario Kart
 4. Metroid Fusion
-
     imageUrl: "/img/download - 2022-01-06T152351.446.jfif"
-   -heading: "Best Emulators"
+  - heading: "Best Emulators"
     text: >
-    The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really safe.
+      The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really safe.
     For the Gameboy its the mGBA Emulator. Its really easy to use and its small enough to run on a really old PC.
     imageUrl: "/img/download (14).png"
