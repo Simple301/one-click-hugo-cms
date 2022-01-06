@@ -1,45 +1,31 @@
 ---
-title: "Values"
+title: "Basics"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Emulating DS/Gameboy Games"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Welcome to the world of Emulation. As a beginner, you should start with Emulating DS/Gameboy games. They are the easiest to Emulate and will take you about 10 minutes to set everything up! You would own a couple of these if you were around here in the 2000s but there is always the illegal way of getting some ROMs.
+    imageUrl: "/img/download - 2022-01-06T151035.466.jfif"
+  - heading: "Extracting the data from a Disc"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+    It will be more complicated to extract the files legally, but thankfully there is always a video on youtube that can go step by step in explaining you how to extract files onto your PC. Here is a good video explaining what you should do if you own a Nintendo DS/DS Lite: https://www.youtube.com/watch?v=CZk_pH4pjfM.
+      If you think that you already know how to do it, we would still recommend you to use FileZilla and Digiex for transfering the data.
+    imageUrl: "/img/ds.jfif"
+  - heading: "The illegal way"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      If you don't own a nintendo DS/Gameboy, there is still an illegal way for you to get some ROMs. We would not recommend you to do this, however, there is always a way.
+      You can just search up FREE NINTENDO DS ROMs and try what pops up, however, many sites might have malware. I noticed that this site where I get my emulators from: https://www.emulatorgames.net/emulators/, has a ton of ROMs. However if they catch you getting these ROMs there will be consequences.
+    imageUrl: "/img/romhacking.net.png"
+  - heading: "What games should I emulate first?"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+     There are a TON of great DS games out there, but the best/easiest games to start with are:
+1. New! Super Mario Bros.
+2. Pokemon Diamond/Pear/Platinum (any pokemon game in general
+3. Mario Kart
+4. Metroid Fusion
+    imageUrl: "/img/download - 2022-01-06T152351.446.jfif"
+  - heading: "Best Emulators"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
----
+    The best/safest DS emulator out there is without a doubt DeSuMe. Other emulators are or too complicated or really safe.
+    For the Gameboy its the mGBA Emulator. Its really easy to use and its small enough to run on a really old PC.
+    imageUrl: "/img/download (14).png"
